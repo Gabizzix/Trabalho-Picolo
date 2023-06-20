@@ -7,9 +7,9 @@ body {
   #produto-destaque {
     background-color: #9e9897;
     text-align: center;
-    width: 40%;
+    width: 60%;
     margin: auto;
-    color: #FFFFFF;
+    color: black;
     position: relative;
   }
   
@@ -26,7 +26,7 @@ body {
     width: 100%;
   }
   
-  #produto, #produto2, #produto3 {
+  #produto, #produto2, #produto3, #produto4 {
     background: #9e9897;
     margin: 30px;
     width: 13%;
@@ -35,7 +35,7 @@ body {
   }
   
     img {
-      opacity: 0.7;
+      opacity: 10.0;
       max-width: 100%;
       max-height: 100%;
     }
@@ -44,7 +44,7 @@ body {
     text-align: center;
   }
   
-  #nomeDest {
+  #nomeDestaque {
     position: relative;
     padding-left: 28.9%;
     padding-right: 28.9%;
